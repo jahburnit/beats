@@ -33,6 +33,9 @@ Friday Night,  Following Weekend (Sep 12)
 Saturday Night, Next Night (Sep 13)
 - MIDI problems (Started OK, then messed up a little bit -- I was playing shitty though, but the problem "turned off" again when I began recording videos with my Android)
 
+Sunday (Sep 14)
+- Extension of problem that begun happening for the first time in September last night. Now, playing the keys is problematic as there is some kind of invisible element modifying the decay rate of various filter and amplitude envelopes on various synthesizers. What is happening here, is after the note triggers, the decay rate is set so that it doesn't sustain until just enough time has passed for it to settle where the tempo sounds like it falls out of sync. (even if played well and/or hard quantized to quarter notes with the appropriate attack settings...)  AGAIN: This is the first occurrance of this problem. So far this month, I have at least been able to monitor everything normally; except for recorded playback issues that popped up on/off again (rarely, though).
+
 
 
 
