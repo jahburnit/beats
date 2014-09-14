@@ -35,6 +35,7 @@ Saturday Night, Next Night (Sep 13)
 
 Sunday (Sep 14)
 - Extension of problem that begun happening for the first time in September last night. Now, playing the keys is problematic as there is some kind of invisible element modifying the decay rate of various filter and amplitude envelopes on various synthesizers. What is happening here, is after the note triggers, the decay rate is set so that it doesn't sustain until just enough time has passed for it to settle where the tempo sounds like it falls out of sync. (even if played well and/or hard quantized to quarter notes with the appropriate attack settings...)  AGAIN: This is the first occurrance of this problem. So far this month, I have at least been able to monitor everything normally; except for recorded playback issues that popped up on/off again (rarely, though).
+- New problem: I am not hearing what I am seeing at all. And if I click and hold a fader on a Mixer, I will begin to hear it go really sour like. Before even moving it, I will hear it turn down, and then a notch filter kick in or something retarded sounding...
 
 
 
